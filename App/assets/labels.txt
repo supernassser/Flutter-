@@ -1,0 +1,7 @@
+0 Aerobic Steppers
+1 Bench Press
+2 Dumbbell
+3 Elliptical
+4 Multi Machine
+5 Rowing Machine
+6 Treadmill
